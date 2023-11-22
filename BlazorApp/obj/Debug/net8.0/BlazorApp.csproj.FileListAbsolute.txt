@@ -46,3 +46,4 @@ C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp\obj\Debug\n
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json

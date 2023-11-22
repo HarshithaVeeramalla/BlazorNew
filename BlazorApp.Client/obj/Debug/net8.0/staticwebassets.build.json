@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z6r9hRwkZrVzfTeHa9e7r78hxcqvygrU70v83mfFy5M=",
+  "Hash": "RgvYS9a+hyC2Sqj275ijkA7fu1F2he6Q+tjnCISierc=",
   "Source": "BlazorApp.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -7805,6 +7805,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\appsettings.json"
+    },
+    {
+      "Identity": "C:\\Users\\v-harshithav\\source\\repos\\Nov\\BlazorApp\\BlazorApp\\BlazorApp.Client\\wwwroot\\index.html",
+      "SourceId": "BlazorApp.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\v-harshithav\\source\\repos\\Nov\\BlazorApp\\BlazorApp\\BlazorApp.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ]
 }

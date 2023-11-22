@@ -1026,3 +1026,4 @@ C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp.Client\obj\
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp.Client\obj\Debug\net8.0\refint\BlazorApp.Client.dll
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp.Client\obj\Debug\net8.0\BlazorApp.Client.pdb
 C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp.Client\obj\Debug\net8.0\ref\BlazorApp.Client.dll
+C:\Users\v-harshithav\source\repos\Nov\BlazorApp\BlazorApp\BlazorApp.Client\obj\Debug\net8.0\BlazorApp.Client.sourcelink.json
